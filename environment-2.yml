@@ -1,0 +1,13 @@
+name: my_streamlit1
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - numpy
+  - pandas
+  - python=3.9
+  - matplotlib
+  - seaborn
+  - ipykernel
+  - xlwings
+  - streamlit
